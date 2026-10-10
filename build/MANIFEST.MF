@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: DDoSMonitor
+Implementation-Title: DDoSMonitor
+Implementation-Version: 1.0
+Implementation-Vendor: DDoSMonitor
